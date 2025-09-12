@@ -7,7 +7,7 @@ export default function Seccion() {
   return (
     <section id="inicio" className={Style.Seccion1} >
       <div className={Style.MiSeccion1}>
-        <h2 className={Style.titulo}>ANSELMO ALMERCO</h2>
+        <h2 className={Style.titulo}>ANSELMO ALMERC Alminagorda</h2>
         <p className={Style.Parrafo}>
           Bienvenido a mi portafolio personal. Aquí encontrarás información sobre mis 
           proyectos, habilidades y cómo contactarme.
