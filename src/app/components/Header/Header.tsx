@@ -4,7 +4,6 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub } from '@fortawesome/free-brands-svg-icons';
 import { faMoon, faSun, faBars, faXmark } from '@fortawesome/free-solid-svg-icons';
 
-
 interface HeaderProps {
   onMySQLClick: () => void;
 }

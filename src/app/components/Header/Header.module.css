@@ -85,7 +85,11 @@
   color: #0070f3;
 }
 .dropdownContent a {
+<<<<<<< HEAD
   color: #000000;
+=======
+  color: #333;
+>>>>>>> 93b23c432f0a3245aa9183d6e97f983bb1d70497
   padding: 10px 16px;
   text-decoration: none;
   display: block;
@@ -96,6 +100,7 @@
   display: block;
   color: #0070f3;
 }
+<<<<<<< HEAD
 :global(body.dark) .dropdownContent a {
   color: #ffffff;
 }
@@ -104,6 +109,10 @@
 }
 
 /** Toggle Button **/
+=======
+
+/******/
+>>>>>>> 93b23c432f0a3245aa9183d6e97f983bb1d70497
 
 .toggleButton {
   background: none;
