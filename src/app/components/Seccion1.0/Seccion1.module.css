@@ -33,7 +33,12 @@
 :global(body.dark) .ImgeFont {
   box-shadow: 0 4px 10px rgba(255, 255, 255, 0.2);
 }
-
+.textoAnimado {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #ff5733; /* Color llamativo */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* Sombra para resaltar */
+}
 .MiSeccion1 {
   flex: 1;
   display: flex;
